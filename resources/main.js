@@ -2,7 +2,7 @@ const d = document
 
 forwardFunctions = {
     1:"https://t.me/lennardrowlands",
-    2:"https://mailto:contact@lenrow.dev",
+    2:"mailto:contact@lenrow.dev",
     3:"https://github.com/len-row",
     4:"infoBox(1)",
     5:"infobox(2)"
